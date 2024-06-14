@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Мои навыки:
+<https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png>
+Git-user
+<https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png>
+OOP-master
+<https://github.com/ProkopevTuskul272/ProkopevTuskul272/assets/142722309/e5872eda-cb41-42ae-8630-c3b34906e8f7>
+JSON-знаток
+<https://storage.tally.so/46c3a05e-ef49-4477-bfc2-61b06e136b3a/telegram-bot.png>
+Создатель ботов
